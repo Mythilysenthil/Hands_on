@@ -33,12 +33,12 @@ class Sphere extends Shapes {
     }
 }
 
-class Rectangle extends Shapes {
+class Rectangles extends Shapes {
 
     double length;
     double width;
 
-    Rectangle(double length, double width) {
+    Rectangles(double length, double width) {
         super("Rectangle");
         this.length = length;
         this.width = width;
@@ -96,7 +96,7 @@ public class handson5 {
 
         Paint paint = new Paint(350);
 
-        Shapes deck = new Rectangle(20, 35);
+        Shapes deck = (Shapes) new Rectangles(20, 35);
         Shapes bigBall = new Sphere(15);
         Shapes tank = new Cylinder(10, 30);
 
