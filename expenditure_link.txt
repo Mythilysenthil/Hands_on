@@ -1,0 +1,10 @@
+Month: January
+
+Food: 3500
+Transport: 1200
+Groceries: 2500
+Electricity Bill: 900
+Internet: 700
+Shopping: 2000
+Medical: 500
+Miscellaneous: 600

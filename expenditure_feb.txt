@@ -1,0 +1,7 @@
+Month: February
+Food: 
+Transport: 
+Groceries: 
+Electricity Bill: 
+Internet: 
+Miscellaneous: 
